@@ -1,0 +1,22 @@
+body {
+
+background-color: #cccccc;
+opacity: 0.9;  
+
+}
+
+
+h1 {border-bottom:thin solid; opacity: 1
+}
+
+
+.navbar{color:red;
+display:inline;}
+
+.navbar ul{
+    background-color: hotpink;
+    }
+.navbar li{
+    display: inline;
+    color: aqua;
+}
