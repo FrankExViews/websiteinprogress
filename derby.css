@@ -11,12 +11,27 @@ h1 {border-bottom:thin solid; opacity: 1
 
 
 .navbar{color:red;
-display:inline; position:sticky;}
+display: block; width: auto; height: 10px;}
 
 .navbar ul{
+    display: block;
     background-color: hotpink;
     }
 .navbar li{
     display: inline;
     color: aqua;
+}
+
+.navbar a:link {color: black;}
+
+.navbar a:hover {
+  color: skyblue;
+}
+
+table{width:auto; table-layout:auto}
+
+td{border: solid; background-color:rgb(134, 222, 252); text-align: justify;  }
+
+iframe{width: 400px; height:400px;
+    
 }
